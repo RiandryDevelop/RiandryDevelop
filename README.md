@@ -7,10 +7,6 @@
 
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - A passionate Self-taught Fullstack developer
@@ -29,10 +25,10 @@
 
 - **Languages**:
     
-    ![C#](https://img.shields.io/badge/C#%20-%232370ED.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-    ![JS](https://img.shields.io/badge/JS%20-%2300599C.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![TS](https://img.shields.io/badge/TS%20-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=black)
-    ![Kt](https://img.shields.io/badge/kT%20-%2300599C.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+    ![C#](https://img.shields.io/badge/CSharp%20-280068.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![JS](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![TS](https://img.shields.io/badge/Typescript%20-007acc.svg?style=for-the-badge&logo=typescript&logoColor=black)
+    ![Kt](https://img.shields.io/badge/kotlin%20-B125EA.svg?style=for-the-badge&logo=kotlin&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
@@ -48,6 +44,8 @@
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Google Cloud](https://img.shields.io/badge/GoogleCloud%20Pages-c7c4bf.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+    ![Azure](https://img.shields.io/badge/Azure%20Pages-007FFF.svg?style=for-the-badge&logo=azure&logoColor=white)
     
 <br>
 
@@ -58,6 +56,7 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=black) 
 
 <br>
 
@@ -106,7 +105,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/riandry-connor-b71275209/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  RiandryConnor-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -114,7 +113,7 @@
 
 <li>
 <a href="mailto:riandryconnordeleon@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  RiandryConnor-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -132,8 +131,3 @@
 </div>
 <br>
 <br>
-<br>
-<br>
----
-<br>
-Last Edited on: 30/10/2022
