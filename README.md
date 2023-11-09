@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riandrydevelop" alt="riandrydevelop" /></a> </p>
 
-- 🔭 I’m currently working on **web and Mobile Apps(Kotlin&Swift)**
+- 🔭 I’m currently working on **web and Mobile Apps(Kotlin&Swift&ReactNative)**
 
 - 🌱 I’m currently learning **Containerization and Kubernetes, Artificial Intelligence and Machine Learning (AI/ML), Serverless Computing**
 
