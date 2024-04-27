@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **React, Node, .Net, Angular ,Mobile Development.**
 
-- 📫 How to reach me **riandryconnordeleon@gmail.com**
+- 📫 How to reach me **riandrydevsoffers@gmail.com**
 
 - ⚡ Fun fact **I like to create indie video games in my free time.**
 
