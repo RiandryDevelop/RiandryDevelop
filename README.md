@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Riandry Connor</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6264F7&random=false&width=435&lines=Senior+Software+Engineer;Fullstack+Specialist+(MERN+%26+.NET);Mobile+Expert+(Swift+%26+Kotlin)" alt="Dev ROL" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6264F7&random=false&width=435&lines=Software+Engineer;Fullstack+Specialist+(MERN+%26+.NET);Mobile+Expert+(Swift+%26+Kotlin)" alt="Dev ROL" /></a>
 </p>
 
 <p align="center">
@@ -46,8 +46,12 @@ As a **Software Engineer**, I specialize in designing and implementing high-perf
 
 ### 📊 Github Performance
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=riandrydevelop&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riandrydevelop&show_icons=true&locale=en&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandrydevelop&layout=compact&theme=pride&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riandrydevelop&show_icons=true&theme=pride&hide_border=true" alt="Github Stats" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=riandrydevelop&theme=pride&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
