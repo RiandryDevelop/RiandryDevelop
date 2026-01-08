@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Riandry Connor</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6264F7&random=false&width=435&lines=Software+Engineer;Fullstack+Specialist+(MERN+%26+.NET);Mobile+Expert+(Swift+%26+Kotlin)" alt="Dev ROL" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6264F7&random=false&width=435&lines=Computer Scientist;Software+Engineer;Fullstack+Specialist" alt="Dev ROL" /></a>
 </p>
 
 <p align="center">
@@ -44,20 +44,47 @@ As a **Software Engineer**, I specialize in designing and implementing high-perf
 
 ---
 
-### 📊 Github Performance
+### 📊 Engineering Metrics
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandrydevelop&layout=compact&theme=pride&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riandrydevelop&show_icons=true&theme=pride&hide_border=true" alt="Github Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-langs?username=riandrydevelop&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riandrydevelop&theme=tokyonight" alt="Github Stats" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=riandrydevelop&theme=pride&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riandrydevelop&theme=tokyonight" alt="GitHub Details" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=riandrydevelop&theme=vision-friendly-dark" />
-</p>
+---
+### 🛠 Tech Stack Categorized
 
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><strong>Backend & Core</strong></td>
+    <td align="center" width="33%"><strong>Frontend & Mobile</strong></td>
+    <td align="center" width="33%"><strong>Cloud & DevOps</strong></td>
+  </tr>
+  <tr>
+    <td align="vertical">
+      - .NET / C# <br>
+      - Node.js (MERN) <br>
+      - Python <br>
+      - SQL / NoSQL
+    </td>
+    <td align="vertical">
+      - React / Angular <br>
+      - Swift (iOS) <br>
+      - Kotlin (Android) <br>
+      - TypeScript
+    </td>
+    <td align="vertical">
+      - Docker / K8s <br>
+      - Azure / GCP <br>
+      - CI/CD Pipelines <br>
+      - Serverless
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🤝 Connect with me
